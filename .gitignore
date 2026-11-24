@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.tools/
+backend/var/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.env
+.vercel
+*.pyc
+.DS_Store
+*.log
